@@ -1,4 +1,4 @@
-id , BZCAT5 Source name , RA (J2000.0) , Dec (J2000.0) , Redshift , Redshiftflag , Rmag , Source classification , Flux density 1.4/0.843GHz(mJy) , Flux density143GHz(mJy) , X-ray flux0.1-2.4 keV(1.e-12 cgs) , Fermi flux1-100 GeV(ph/cm2/s)
+id , name , RA (J2000.0) , Dec (J2000.0) , Redshift , Redshiftflag , Rmag , Source classification , Flux density 1.4/0.843GHz(mJy) , Flux density143GHz(mJy) , X-ray flux0.1-2.4 keV(1.e-12 cgs) , Fermi flux1-100 GeV(ph/cm2/s)
 1 , "5BZQJ0000-3221" , "00 00 20.39" , "-32 21 01.0" , "1.275" , "" , "18.2" , "QSO RLoud flat radio sp." , "521" , "" , "0.05" , ""
 2 , "5BZQJ0001-1551" , "00 01 05.29" , "-15 51 06.98" , "2.044" , "" , "18.1" , "QSO RLoud flat radio sp." , "348" , "" , "" , ""
 3 , "5BZQJ0001+1914" , "00 01 08.62" , "+19 14 34.18" , "3.1" , "" , "21.6" , "QSO RLoud flat radio sp." , "265" , "" , "" , ""
